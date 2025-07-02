@@ -20,8 +20,15 @@
 
 - Bsc.Computer Science - Africa Nazarene University​ (July 2022)
 
-## Projects
+## <u>Projects</u>
 
-**Cars&Bids Project** <br>
-A data engineering pipeline for scraping and transforming car auction data. <br>
-Tech Stack: `Python, Selenium, Pandas, PostgreSQL, AWS(ec2,s3,lambda functions)`
+#### Cars&Bids-De
+A data pipeline to scrape and process car auction data, built using **Python**, **Selenium**, and **Pandas**. Data is stored in **PostgreSQL** after cleaning, with raw files saved in **S3** and workflows running on **EC2**. Designed for future upgrades with tools like Airflow, dbt, and Redshift.
+
+### DataCollab
+A collaborative web app for students to share real-world data projects, built with **Streamlit** and **PostgreSQL**. Features include dynamic filtering, search, and structured backend storage via SQLAlchemy.
+
+### Get-It-Done Kenya
+A civic issue-reporting platform built with **Django**, **Django-Ninja**, and **PostgreSQL**. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.
+
+
