@@ -2,11 +2,11 @@
 
 ## Technical Skills
 
-**Data Engineering:** ETL Pipeline Development, Data Modelling, Data Warehouse Architecture, Workflow Orchestration
-**Languages**: Python, SQL
-**Backend Dev** : Django (DRF, Django-Ninja), FastAPI, Flask
-**Databases**: PostgreSQL, MySQL, SQLite
-**Cloud & DevOps**: AWS, Docker, Git
+**Data Engineering:** ETL Pipeline Development, Data Modelling, Data Warehouse Architecture, Workflow Orchestration <br>
+**Languages**: Python, SQL <br>
+**Backend Dev** : Django (DRF, Django-Ninja), FastAPI, Flask <br>
+**Databases**: PostgreSQL, MySQL, SQLite <br>
+**Cloud & DevOps**: AWS, Docker, Git <br>
 
 ## Work Experience
 
