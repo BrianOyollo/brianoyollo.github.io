@@ -18,7 +18,7 @@
 
 ## <u> Education</u>
 
-- Bsc.Computer Science - Africa Nazarene University​ (July 2022)
+- Bsc. Computer Science - Africa Nazarene University​ (*July 2022*)
 
 ## <u>Projects</u>
 
