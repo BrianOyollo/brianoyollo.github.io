@@ -23,5 +23,5 @@
 ## Projects
 
 **Cars&Bids Project** <br>
-A data engineering pipeline for scraping and transforming car auction data.
+A data engineering pipeline for scraping and transforming car auction data. <br>
 Tech Stack: `Python, Selenium, Pandas, PostgreSQL, AWS(ec2,s3,lambda functions)`
