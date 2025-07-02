@@ -22,13 +22,13 @@
 
 ## <u>Projects</u>
 
-- **Cars&Bids-De** <br>
-A data pipeline to scrape and process car auction data, built using Python, Selenium, and Pandas. Data is stored in PostgreSQL after cleaning, with raw files saved in S3 and workflows running on EC2. Designed for future upgrades with tools like Airflow, dbt, and Redshift.
+**Cars&CarsnBids Data Engineering Workflow** <br>
+A data pipeline to scrape and process car auction data, built using Python, Selenium, and Pandas. Cleaned data is loaded into a PostgreSQL-based data warehouse to support structured storage and analytical queries, while raw JSON files are archived in S3. Workflows are scheduled via cron jobs on EC2, with plans to scale using Airflow, dbt, and Redshift <br>
 
-- **DataCollab** <br>
-A collaborative web app for students to share real-world data projects, built with Streamlit and PostgreSQL. Features include dynamic filtering, search, and structured backend storage via SQLAlchemy.
+**DataCollab** <br>
+A collaborative web app for students to share real-world data projects, built with Streamlit and PostgreSQL. Features include dynamic filtering, search, and structured backend storage via SQLAlchemy.<br>
 
-- **Get-It-Done Kenya** <br>
-A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.
+**Get-It-Done Kenya** <br>
+A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.<br>
 
 
