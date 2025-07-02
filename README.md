@@ -1,4 +1,8 @@
-## <u>Technical Skills</u>
+# 
+
+## Technical Skills
+
+---
 
 **Data Engineering:** ETL Pipeline Development, Data Modelling, Data Warehouse Architecture, Workflow Orchestration <br>
 **Languages**: Python, SQL <br>
@@ -6,7 +10,9 @@
 **Databases**: PostgreSQL, MySQL, SQLite <br>
 **Cloud & DevOps**: AWS, Docker, Git <br>
 
-## <u>Work Experience</u>
+## Work Experience
+
+---
 
 **Data Collection & Analysis Coordinator​ @ Pro-Team Support Services (*March 2022 - Present*)**
 
@@ -16,10 +22,12 @@
 - structure raw survey data.
 - Generated dashboards and analytics using Excel automating insight delivery.
 
-## <u>Education</u>
+## Education
 
-Bsc.Computer Science - Africa Nazarene University​ (July 2022)
+---
 
-## <u>Projects</u>
+- Bsc.Computer Science - Africa Nazarene University​ (July 2022)
+
+## Projects
 
 ---
