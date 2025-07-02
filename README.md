@@ -1,4 +1,3 @@
-# Data Engineer / Backend Developer
 
 ## Technical Skills
 
@@ -9,7 +8,7 @@
 **Cloud & DevOps**: AWS, Docker, Git <br>
 
 ## Work Experience
-Data Collection & Analysis Coordinator​ @ Pro-Team Support Services (March 2022 - Present)
+**Data Collection & Analysis Coordinator​ @ Pro-Team Support Services (*March 2022 - Present*)**
 - Led full data lifecycle for projects, from collection through transformation and reporting.
 - Migrated workflows to digital tools like KoboCollect, enabling streamlined data ingestion and validation.
 - Designed and implemented lightweight ETL pipelines in Python and Pandas to clean, transform, and
@@ -18,5 +17,6 @@ Data Collection & Analysis Coordinator​ @ Pro-Team Support Services (March 202
 
 
 ## Education
+Bsc.Computer Science - Africa Nazarene University​ (July 2022)
 
 ## Projects
