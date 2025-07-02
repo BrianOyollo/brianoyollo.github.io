@@ -22,13 +22,14 @@
 
 ## <u>Projects</u>
 
-**Cars&CarsnBids Data Engineering Workflow** <br>
+**Cars&Bids Data Engineering Workflow** <br>
 A data pipeline to scrape and process car auction data, built using Python, Selenium, and Pandas. Cleaned data is loaded into a PostgreSQL-based data warehouse to support structured storage and analytical queries, while raw JSON files are archived in S3. Workflows are scheduled via cron jobs on EC2, with plans to scale using Airflow, dbt, and Redshift <br>
+[View Code](https://github.com/BrianOyollo/carsnbids-auctions-processor) <br>
 
 **DataCollab** <br>
 A collaborative web app for students to share real-world data projects, built with Streamlit and PostgreSQL. Features include dynamic filtering, search, and structured backend storage via SQLAlchemy.<br>
+[View Code](https://github.com/BrianOyollo/data-collab) | [Demo](https://data-collab.streamlit.app/) <br>
 
 **Get-It-Done Kenya** <br>
 A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.<br>
-
-
+[View Code](https://github.com/BrianOyollo/get-it-done)
