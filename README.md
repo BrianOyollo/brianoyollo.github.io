@@ -33,3 +33,7 @@ A collaborative web app for students to share real-world data projects, built wi
 **Get-It-Done Kenya** <br>
 A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.<br>
 [View Code](https://github.com/BrianOyollo/get-it-done)
+
+## <u>Contacts</u>
+
+[![Email](assets/mail.svg)](mailto:oyollobrian@gmail.com)
