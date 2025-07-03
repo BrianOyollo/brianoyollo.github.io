@@ -1,4 +1,4 @@
-## <u>Technical Skills</u>
+## <u>Technical Skills</u> <sup>[⎙ CV](https://docs.google.com/document/d/1_SPIS3m1oue7XEYCdj2fCFJC9JQ9D37jNmETILRxuI0/export?format=pdf)</sup>
 
 **Data Engineering:** ETL Pipeline Development, Data Modelling, Data Warehouse Architecture, Workflow Orchestration <br>
 **Languages**: Python, SQL <br>
