@@ -36,4 +36,4 @@ A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL
 
 ## <u>Contacts</u>
 
-[![Email](assets/mail.svg)](mailto:oyollobrian@gmail.com)
+
