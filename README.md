@@ -35,5 +35,6 @@ A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL
 [View Code](https://github.com/BrianOyollo/get-it-done)
 
 ## <u>Contacts</u>
-
-
+Email: [oyollobrian@gmail.com](mailto:oyollobrian@gmail.com) <br>
+GitHub: [github.com/BrianOyollo](https://github.com/BrianOyollo) <br>
+LinkedIn: [linkedin.com/brian-oyollo](https://www.linkedin.com/in/brian-oyollo-95848019b/)
