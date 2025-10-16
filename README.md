@@ -10,10 +10,11 @@
 
 **Data Collection & Analysis Coordinator​ @ Pro-Team Support Services (*March 2022 - Present*)**
 
-- Led full data lifecycle for projects, from collection through transformation and reporting.
+- Oversaw end-to-end data processes (collection, transformation, reporting) supporting humanitarian NGO projects.
 - Migrated workflows to digital tools like KoboCollect, enabling streamlined data ingestion and validation.
 - Designed and implemented lightweight ETL pipelines in Python and Pandas to clean, transform, and structure raw survey data.
-- Generated dashboards and analytics using Excel.
+- Generated dashboards and analytics using Excel automating insight delivery.
+
 
 ## <u> Education</u>
 
