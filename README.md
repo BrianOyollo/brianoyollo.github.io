@@ -21,18 +21,20 @@
 - Bsc. Computer Science - Africa Nazarene University​ (*July 2022*)
 
 ## <u>Projects</u>
-**[Cars&Bids ETL Pipeline](https://github.com/BrianOyollo/Cars-Bids-Data-Pipeline-v0-)** | Python, Selenium, Pandas, PostgreSQL, AWS(ec2,s3,lambda functions, step functions)
-Engineered an automated pipeline to scrape, clean, and load car auction data daily into an AWS-based data warehouse.
-Built transformation logic in Pandas for schema standardization and enrichment before S3 storage.
-Deployed AWS Lambda and Step Functions for serverless orchestration and scalable data processing.
-Modeled data for analytical queries using PostgreSQL and designed a warehouse schema to support historical trend analysis.
+**[Cars&Bids ETL Pipeline](https://github.com/BrianOyollo/Cars-Bids-Data-Pipeline-v0-)** | *Python, Selenium, Pandas, PostgreSQL, AWS(ec2,s3,lambda functions, step functions)*
+
+- Engineered an automated pipeline to scrape, clean, and load car auction data daily into an AWS-based data warehouse.
+- Built transformation logic in Pandas for schema standardization and enrichment before S3 storage.
+- Deployed AWS Lambda and Step Functions for serverless orchestration and scalable data processing.
+- Modeled data for analytical queries using PostgreSQL and designed a warehouse schema to support historical trend analysis.
 
 
-**[Real-Time Air Quality Data Pipeline](https://github.com/BrianOyollo/air-quality-cdc)** | Python, Apache Kafka, MongoDB, Cassandra, Docker
-Developed a real-time streaming pipeline ingesting environmental metrics via Open-Meteo API.
-Implemented CDC between MongoDB (raw) and Cassandra (analytics) using Kafka for near-real-time sync.
-Containerized services using Docker for reproducibility and scalability.
-Optimized query performance for historical air quality trends using Cassandra’s time-series design.
+**[Real-Time Air Quality Data Pipeline](https://github.com/BrianOyollo/air-quality-cdc)** | *Python, Apache Kafka, MongoDB, Cassandra, Docker*
+
+- Developed a real-time streaming pipeline ingesting environmental metrics via Open-Meteo API.
+- Implemented CDC between MongoDB (raw) and Cassandra (analytics) using Kafka for near-real-time sync.
+- Containerized services using Docker for reproducibility and scalability.
+- Optimized query performance for historical air quality trends using Cassandra’s time-series design.
 
 
 
