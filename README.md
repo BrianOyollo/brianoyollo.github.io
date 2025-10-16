@@ -21,18 +21,20 @@
 - Bsc. Computer Science - Africa Nazarene University​ (*July 2022*)
 
 ## <u>Projects</u>
+**[Cars&Bids ETL Pipeline](https://github.com/BrianOyollo/Cars-Bids-Data-Pipeline-v0-)** | Python, Selenium, Pandas, PostgreSQL, AWS(ec2,s3,lambda functions, step functions)
+Engineered an automated pipeline to scrape, clean, and load car auction data daily into an AWS-based data warehouse.
+Built transformation logic in Pandas for schema standardization and enrichment before S3 storage.
+Deployed AWS Lambda and Step Functions for serverless orchestration and scalable data processing.
+Modeled data for analytical queries using PostgreSQL and designed a warehouse schema to support historical trend analysis.
 
-**Cars&Bids Data Engineering Workflow** <br>
-A data pipeline to scrape and process car auction data, built using Python, Selenium, and Pandas. Cleaned data is loaded into a PostgreSQL-based data warehouse to support structured storage and analytical queries, while raw JSON files are archived in S3. Workflows are scheduled via cron jobs on EC2, with plans to scale using Airflow, dbt, and Redshift <br>
-[View Code](https://github.com/BrianOyollo/carsnbids-auctions-processor) <br>
 
-**DataCollab** <br>
-A collaborative web app for students to share real-world data projects, built with Streamlit and PostgreSQL. Features include dynamic filtering, search, and structured backend storage via SQLAlchemy.<br>
-[View Code](https://github.com/BrianOyollo/data-collab) | [Demo](https://data-collab.streamlit.app/) <br>
+**[Real-Time Air Quality Data Pipeline](https://github.com/BrianOyollo/air-quality-cdc)** | Python, Apache Kafka, MongoDB, Cassandra, Docker
+Developed a real-time streaming pipeline ingesting environmental metrics via Open-Meteo API.
+Implemented CDC between MongoDB (raw) and Cassandra (analytics) using Kafka for near-real-time sync.
+Containerized services using Docker for reproducibility and scalability.
+Optimized query performance for historical air quality trends using Cassandra’s time-series design.
 
-**Get-It-Done Kenya** <br>
-A civic issue-reporting platform built with Django, Django-Ninja, and PostgreSQL. Provides a lightweight frontend using HTMX and a RESTful API backend for reporting and tracking local problems.<br>
-[View Code](https://github.com/BrianOyollo/get-it-done)
+
 
 ## <u>Contacts</u>
 Email: [oyollobrian@gmail.com](mailto:oyollobrian@gmail.com) <br>
